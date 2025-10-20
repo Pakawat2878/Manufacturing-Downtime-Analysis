@@ -26,7 +26,17 @@ The Python notebook to conduct data exporatory can be found here.
 
 ## Executive summary
 ### Overview of Findings
-- Downtime minute was up trend during Jan - Feb'24, after Feb'24 trends goes down until  end of Apr'24, consistency to production volume in manufacturing.
-- However, average minute of downtime has no significant change during productoin period. It means cause of downtime doesn't improve yet.
-- Main causation of downtime are 1.Solder clog(40%) 2.Component feed error(27%) 3.Vision system issue(17%) 4.Material shortage(15%)
-- 
+
+- Production efficiency of production is 85% with total downtime minute is 11291 or equals to number of electric board 6272 pieces that loss in production.
+
+- Most highest contribution factor came from solder clog issue(35% of total causation) with scraping rate at 2.8%(highest value when compare to other factor).
+
+- As correlation analysis, there's weak correlation between downtime minute and process efficiency. So, decrease downtime doesn't significantly improve process efficiency.
+
+- Found downtime occurence as seansonal in each idividual factor. Prioritize investigation on most severe factor 'solder clog'
+
+### Reccomendation
+- Reccomend to deep investigate into 'solder clog' machine to find root cause of issue.
+
+
+
