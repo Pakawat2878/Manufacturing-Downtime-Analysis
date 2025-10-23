@@ -34,9 +34,8 @@ Overall production has small change performance along production period. Key per
 - Business impact from scrap unit and downtime can be estimated as  xx% of total product loss.
   
 - Along production period Jan - Apr'24, the lowest production efficiency was occured in afternoon shift by average 75.6% and not only in production period, afternoon shift still perform the worst efficiency in each downtime factor also that make assumption is shift assignment is influent.
-  
-- picture of line graph show performance level of each production shift
 
+![Alternative text for the image](https://github.com/Pakawat2878/Manufacturing-Downtime-Analysis/blob/main/Eff_produciton_shift.png)
 
 
 ### Downtime Analysis:
@@ -46,7 +45,6 @@ Overall production has small change performance along production period. Key per
 
 ![Alternative text for the image](https://github.com/Pakawat2878/Manufacturing-Downtime-Analysis/blob/main/Picture1.png)
 
-- show picture of grah (bar graph display factor ratio)
 
 ### Reccomendation
 - Temporary solution: allocate high experience year operator to afternoon shift to increase production efficiency.
