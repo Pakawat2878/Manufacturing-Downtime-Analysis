@@ -5,6 +5,7 @@ The data set present manufacturing production of electric baord which utilize in
 The data set include significant manufacturing downtime causation, downtime minute and scrap units which generated in production. This project throughly analyzes this data in order to uncover critical insight that will improve production efficiency of electrice board production.
 
 Insight and recommendations are provided on followig key areas:
+Production efficiency: Evaluate process efficiency through performance of actual production unit and scrap unit to 
 - Downtime Analysis: Analyze historical downtime occurrence and downtime causation to identify contribution factor that caused impact to buiness.
   
 - Production efficiency:
