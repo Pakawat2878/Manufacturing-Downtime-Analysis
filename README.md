@@ -1,15 +1,12 @@
 ## Project Background
 
-The data set present manufacturing production of Air Conditioner company in part of assembly process.
+The data set present manufacturing production of electric baord which utilize in air conditioner.
 
-The data set include significant manufacturing downtime causation, minute amount and operation efficiency. This project throughly analyzes this data in order to uncover critical insight that will improve production efficiency of Air Condition product.
+The data set include significant manufacturing downtime causation, downtime minute and scrap units which generated in production. This project throughly analyzes this data in order to uncover critical insight that will improve production efficiency of electrice board production.
 
 Insight and recommendations are provided on followig key areas:
-- Downtime Analysis:
-  - Evaluate historical downtime, focusing on total accumulate minute of downtime and timing of downtime occurence.
-  - Determine severity level of downtime impact to business.
-  - Identify contribution factor to prioritize decision making on urgent point.
-
+- Downtime Analysis: Analyze historical downtime occurrence and downtime causation to identify contribution factor that caused impact to buiness.
+  
 - Production efficiency:
   - Evaluate overall process efficiency and process performance as indiviaul model product.
   - Evaluate operator performance efficiency.
