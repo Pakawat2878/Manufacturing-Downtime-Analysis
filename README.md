@@ -33,7 +33,7 @@ Overall production has small change performance along production period. Key per
   
 - Business impact from scrap unit and downtime can be estimated as  xx% of total product loss.
   
-- Along production period Jan - Apr'24, the lowest production efficiency was occured in afternoon shift by average 75.6% compare to other shift assignment.
+- Along production period Jan - Apr'24, the lowest production efficiency was occured in afternoon shift by average 75.6% and not only in production period, afternoon shift still perform the worst efficiency in each downtime factor also that make assumption is shift assignment is influent.
   
 - picture of line graph show performance level of each production shift
 
@@ -42,7 +42,7 @@ Overall production has small change performance along production period. Key per
 ### Downtime Analysis:
 -  35% of downtime causation come from solder clog with the highest percentage of scrap rate by 2.64%. Then following by other factor 30%, 17%, 15% for 'component feed error', 'materila shortage' and 'vision system issue' respectively.
 
-- Low average experience year of operator(5 years) is found in afternoon shift. It is clearly lower than other production shift(morning: 7 years, night: 8 years) and strong correlation coefficient 0.59 between operators experience year and production efficiency that make assumption operator experience is influent.
+- Low average experience year of operator(5 years) is found in afternoon shift. It is clearly lower than other production shift(morning: 7 years, night: 8 years) and strong correlation coefficient 0.59 between operators experience year and production efficiency, assumption is operator experience is influent.
 
 - show picture of grah (bar graph display factor ratio)
 
