@@ -44,6 +44,8 @@ Overall production has small change performance along production period. Key per
 
 - Low average experience year of operator(5 years) is found in afternoon shift. It is clearly lower than other production shift(morning: 7 years, night: 8 years) and strong correlation coefficient 0.59 between operators experience year and production efficiency, assumption is operator experience is influent.
 
+![Alternative text for the image](https://github.com/Pakawat2878/Manufacturing-Downtime-Analysis/blob/main/Picture1.png)
+
 - show picture of grah (bar graph display factor ratio)
 
 ### Reccomendation
