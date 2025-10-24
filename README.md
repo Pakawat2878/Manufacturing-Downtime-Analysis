@@ -31,8 +31,7 @@ As key performance indicator have shown _scrap unit by +x% and downtime minute b
 
 ### Process Efficiency:
 - <ins>**_Overall production efficiency has small fluctuate during Jan - Apr'24_**</ins> by +x%, average downtime minute xx and average scrap by xx.
-
-- However, accumulated downtime minute(xx mins) and scrap unit(xx pcs) as <ins>estimated loss xx% of production.</ins>
+However, accumulated downtime minute(xx mins) and scrap unit(xx pcs) as <ins>estimated loss xx% of production.</ins>
   
 - <ins>_**XX% of downtime and xx% of scrap was perform under afternoon shift**_</ins> with the worst efficiency 76.51% along production period(Jan - Apr). This number has shown that shift assignment is influent to production performance.
 
@@ -40,7 +39,8 @@ As key performance indicator have shown _scrap unit by +x% and downtime minute b
 
 
 ### Downtime Analysis:
--  <ins>_35% of downtime causation come from solder clog with the highest percentage of scrap rate by 2.64%._</ins> Then following by other factor 30%, 17%, 15% for 'component feed error', 'material shortage' and 'vision system issue' respectively.
+-  <ins>_35% of downtime causation come from solder clog_</ins> Then following by other factor 30%, 17%, 15% for 'component feed error', 'material shortage' and 'vision system issue' respectively.
+  The highest scrap unit came from Solder clog causation also.
 
 ![Alternative text for the image](https://github.com/Pakawat2878/Manufacturing-Downtime-Analysis/blob/main/Picture1.png)
 
