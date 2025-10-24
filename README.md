@@ -44,7 +44,7 @@ However, accumulated downtime minute(xx mins) and scrap unit(xx pcs) as <ins>est
 
 ![Alternative text for the image](https://github.com/Pakawat2878/Manufacturing-Downtime-Analysis/blob/main/Picture1.png)
 
-- <ins>_The aftrernoon shift was performed by lower average experience year when compare to other shift._</ins> Clearly lower than morning: -x years and Night -x years. As analsysis, there's strong correlation coefficient 0.59 between operators experience year and production efficiency, assumption is operator experience is influent.
+- <ins>_Lower average experience year was assigned in the aftrernoon shift when compare to other shift._</ins> Clearly lower than morning: -x years and Night -x years. As analsysis, there's strong correlation coefficient 0.59 between operators experience year and production efficiency, assumption is operator experience is influent.
 
 
 ### Reccomendation
