@@ -22,24 +22,32 @@ The Python notebook to conduct data exporatory can be found here.
 - picture of table diagram(show information linkage to each tabel)
 
 ## Executive summary
-### Overview of Findings
 
 _RECCOMMEND STRETEGIC_ to <ins>_improve +12% process efficiency and reduce -22% of system downtime_</ins>  _<ins>by allocate high experience operator into afternoon shift</ins>_ and _<ins>increase actual productio minute</ins>_. This strategic pivot will instantly improve.
 
 _IMPACT BUSINESS COST_ _<ins>lost 9% of total production(188 labuor hours)</ins>_ from frequent system downtime and part scrap. 
 Even overall performace of downtime decrease -6% and scrap slighly increase +0.8% over period but accumulation amount cause a huge impact cost. The primary driver of current inefficiency.
 
+_Analysis confirm_ that experience year of operator and production time usage are influential to process efficiency and frequent of downtime occurence. Assumption is operator with high experience able handle machine and manage error situation better than low experience person.
 
 
 - picture of KPI dashboard
 
 ### Process Efficiency:
-- <ins>**_Overall production efficiency has small fluctuate during Jan - Apr'24_**</ins> by +x%, average downtime minute xx and average scrap by xx.
-However, accumulated downtime minute(xx mins) and scrap unit(xx pcs) as <ins>estimated loss xx% of production.</ins>
+- **_Overall production efficiency has slightly change by +1.3%_**. system downtime minute -6.05 and scrap unit by +0.77%. By the way, accumulation of downtime and scrap unit cause <ins>_estimated lost 9% of production_</ins>.
   
 - <ins>_**XX% of downtime and xx% of scrap was perform under afternoon shift**_</ins> with the worst efficiency 76.51% along production period(Jan - Apr). This number has shown that shift assignment is influent to production performance.
 
 ![Alternative text for the image](https://github.com/Pakawat2878/Manufacturing-Downtime-Analysis/blob/main/Eff_produciton_shift.png)
+
+
+#### Product Model Performance
+- **47% of product volume contributed By Model-X**, 32% and 20% for model-y and z respectively. interm of downtime minute and scrap unit also according to production volume.
+- **Product volume trends:** average production volume is _<ins>**up trend for all model since January to April**</ins>_.
+- **Downtime minutes trends:** sum of downtime minutes _<ins>end up with down trend in product-y and z ( -10% and -17% change respectively) </ins>_ for product x a bit increase 5%(comparison between Jan and Apr).
+- **Downtime minute swing direction**: _<ins>Product-z has opposite trend direction from model-x and y</ins>_.
+- **Reccommend** to <ins>investigate produ
+
 
 
 ### Downtime Analysis:
