@@ -24,13 +24,14 @@ The Python notebook to conduct data exporatory can be found here.
 ## Executive summary
 ### Overview of Findings
 
-**_RECCOMMEND STRETEGIC_** to <ins>_improve +12% process efficiency and reduce -22% of system downtime_</ins> and  _<ins>by allocate high experience operator into afternoon shift</ins>_ and _<ins>increase actual productio minute</ins>_. This strategic pivot will instantly improve.
+_RECCOMMEND STRETEGIC_ to <ins>_improve +12% process efficiency and reduce -22% of system downtime_</ins> and  _<ins>by allocate high experience operator into afternoon shift</ins>_ and _<ins>increase actual productio minute</ins>_. This strategic pivot will instantly improve.
 
-**IMPACT BUSINESS LOST cost 188 labor hours from frequent system downtime and part scrap.** While our high-cost phone support remains effective (92% resolution rate), the unmanaged 45% increase in chat volume, coupled with its low 78% resolution rate, is the primary driver of current inefficiency and customer dissatisfaction.
+_IMPACT BUSINESS LOST_ cost <ins>188 labor hours from frequent system downtime and part scrap.</ins> 
+Even overvie of trend decrease in downtime(-6%) and slighly increase in scrap(+0.77%) over production period but accumulation amount cause a huge impact cost. The primary driver of current inefficiency.
 
 
-<ins>**_Accumulation of scrap and downtime minute cause business impact by xx% of total cost._**</ins>
-As key performance indicator have shown _scrap unit by +x% and downtime minute by +x%_ during producttion period(Jan - Apr'24). Following section will explore contributing factor and highlight key opportunity area for improvement.
+<ins>**_Accumulation of scrap and downtime minute cause business impact by 9% of total production cost._**</ins>
+As key performance indicator have shown _scrap unit by and downtime minute by_ during producttion period(Jan - Apr'24). Following section will explore contributing factor and highlight key opportunity area for improvement.
 
 - picture of KPI dashboard
 
