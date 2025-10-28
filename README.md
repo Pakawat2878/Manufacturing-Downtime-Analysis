@@ -30,15 +30,14 @@ Even overall performace of downtime decrease -6% and scrap slighly increase +0.8
 
 _Analysis confirm_ that experience year of operator and production time usage are influential to process efficiency and frequent of downtime occurence. Assumption is operator with high experience able handle machine and manage error situation better than low experience person.
 
-
-- picture of KPI dashboard
+![Alternative text for the image](https://github.com/Pakawat2878/Manufacturing-Downtime-Analysis/blob/main/Manufacturing%20KPI.png)
 
 ## Deep Insign Analysis
 
 ### Process Efficiency:
 - **_Overall Production Efficiency has slightly change by +1.3%_**. The system downtime minute -6.05 and scrap unit by +0.77%. By the way, accumulation of downtime and scrap unit cause <ins>_estimated lost 9% of production_</ins>.
   
-![Alternative text for the image](Dashboard which show overall KPI)
+![Alternative text for the image]()
 
 
 #### Product Model Performance
