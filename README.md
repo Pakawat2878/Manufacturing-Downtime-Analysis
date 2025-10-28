@@ -9,7 +9,7 @@ Insight and recommendations are provided on following key areas:
   
 - _**Downtime Analysis:**_ Specify contribution factor in downtime causation and downtime occurrence timing to scope target improvement action.
   
-- _**Reccomendation:**_ provide proposal to improve process efficiency base on insign data analyst. 
+- _**Conclusion & Reccomendation:**_ provide proposal to improve process efficiency base on insign data analyst. 
   
 An interactive Looker Studio dashboard can be download here.
 
@@ -24,12 +24,9 @@ The Python notebook to conduct data exporatory can be found here.
 ## Executive summary
 ### Overview of Findings
 
-**_WE RECCOMMEND stretegic_** to <ins>_improve +12% process efficiency and reduce -22% of system downtime_</ins> and  _<ins>by allocate high experience operator into afternoon shift</ins>_ and _<ins>increase actual productio minute(from 433 to 440 minutes)</ins>_
+**_RECCOMMEND STRETEGIC_** to <ins>_improve +12% process efficiency and reduce -22% of system downtime_</ins> and  _<ins>by allocate high experience operator into afternoon shift</ins>_ and _<ins>increase actual productio minute</ins>_. This strategic pivot will instantly improve.
 
-**Immediate action is required to resolve process efficiency and poor downtime management**. 
-We recommend instantly allocation high experience operator into afternoon shift and increase production minute to reduce downtime minute. This strategic pivot will instantly improve.
-
-**This plan targets the 15% surge in scrap costs and the frequent system downtime that has cost 188 lost labor hours.** While our high-cost phone support remains effective (92% resolution rate), the unmanaged 45% increase in chat volume, coupled with its low 78% resolution rate, is the primary driver of current inefficiency and customer dissatisfaction.
+**IMPACT BUSINESS LOST cost 188 labor hours from frequent system downtime and part scrap.** While our high-cost phone support remains effective (92% resolution rate), the unmanaged 45% increase in chat volume, coupled with its low 78% resolution rate, is the primary driver of current inefficiency and customer dissatisfaction.
 
 
 <ins>**_Accumulation of scrap and downtime minute cause business impact by xx% of total cost._**</ins>
