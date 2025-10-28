@@ -24,14 +24,12 @@ The Python notebook to conduct data exporatory can be found here.
 ## Executive summary
 ### Overview of Findings
 
-_RECCOMMEND STRETEGIC_ to <ins>_improve +12% process efficiency and reduce -22% of system downtime_</ins> and  _<ins>by allocate high experience operator into afternoon shift</ins>_ and _<ins>increase actual productio minute</ins>_. This strategic pivot will instantly improve.
+_RECCOMMEND STRETEGIC_ to <ins>_improve +12% process efficiency and reduce -22% of system downtime_</ins>  _<ins>by allocate high experience operator into afternoon shift</ins>_ and _<ins>increase actual productio minute</ins>_. This strategic pivot will instantly improve.
 
-_IMPACT BUSINESS LOST_ cost <ins>188 labor hours from frequent system downtime and part scrap.</ins> 
-Even overvie of trend decrease in downtime(-6%) and slighly increase in scrap(+0.77%) over production period but accumulation amount cause a huge impact cost. The primary driver of current inefficiency.
+_IMPACT BUSINESS COST_ _<ins>lost 9% of total production(188 labuor hours)</ins>_ from frequent system downtime and part scrap. 
+Even overall performace of downtime decrease -6% and scrap slighly increase +0.8% over period but accumulation amount cause a huge impact cost. The primary driver of current inefficiency.
 
 
-<ins>**_Accumulation of scrap and downtime minute cause business impact by 9% of total production cost._**</ins>
-As key performance indicator have shown _scrap unit by and downtime minute by_ during producttion period(Jan - Apr'24). Following section will explore contributing factor and highlight key opportunity area for improvement.
 
 - picture of KPI dashboard
 
