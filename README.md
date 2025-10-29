@@ -17,7 +17,7 @@ The Python notebook to conduct data exporatory can be found [here](https://githu
 
 
 ## Data Structure Overview
-- picture of table diagram(show information linkage to each tabel)
+![Alternative text for the image](https://github.com/Pakawat2878/Manufacturing-Downtime-Analysis/blob/main/ER%20Diagram.png)
 
 ## Executive summary
 
