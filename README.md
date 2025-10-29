@@ -81,8 +81,11 @@ _Analysis confirm_ that experience year of operator and production time usage ar
 
 
 ### **Conclusion & Reccomendation**
-1. _**Quick action approach:**_ Allocate high exeperience to afternoon shift to improve process efficiency.
-2. _**Mid term plan of root cause analysis:**_ Deep investigate root cause of downtime minute, focus high contributing factor(Solder Clog & Component Feed Error) by ask support from facility team to analyze data record of machine.
+1. _**Quick action approach:**
+   - Process Efficiency improvement: _Allocate high exeperience to afternoon shift(from average 4 years to 7 years) to improve process efficiency_.
+   - System Downtime improvement: _Increase production time per day from 433 minute to 440 minute_.
+3. _**Mid term plan of root cause analysis:**_ Deep investigate root cause of downtime minute, focus high contributing factor(Solder Clog & Component Feed Error) by ask support from facility team to analyze data record of machine.
 
 
 ![Alternative text for the image](https://github.com/Pakawat2878/Manufacturing-Downtime-Analysis/blob/main/Strategic%20increase%20efficiency.png)
+![Alternative text for the image](https://github.com/Pakawat2878/Manufacturing-Downtime-Analysis/blob/main/Strategic%20reduce%20downtime.png)
