@@ -75,10 +75,7 @@ _Analysis confirm_ that experience year of operator and production time usage ar
 
 - **Downtime causation trends:** <ins>sum of downtime minute is **up trends in 'Solder Clog' and 'Material Shortage'** for +16% and +7%</ins> respectively since January month while <ins>**'Vission system issue' and 'Component feed error' are opposite with down trends**</ins> since January.
 
-
-![Alternative text for the image](bar graph which show +/- %change of overall downtime minute over period)
-
-- **_Strong Negative Correlation_** was found between _**downtime minute and actual production minute**_(corr coeff = -0.85).Same correlation pattern as individaul downtime causation(less than - 0.80). Assumpation:
+- **_Strong Negative Correlation_** was found between _**downtime minute and actual production minute**_(corr coeff is -0.85).Same correlation pattern as individaul downtime causation(less than - 0.80). Assumpation:
 
 ![Alternative text for the image](bar graph which show correlation graph between Eff vs Exp
 ![Alternative text for the image](box graph which show range of experience years in each shift assignment)
