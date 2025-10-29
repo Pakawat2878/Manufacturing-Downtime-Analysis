@@ -37,9 +37,6 @@ _Analysis confirm_ that experience year of operator and production time usage ar
 ### Process Efficiency:
 - **_Overall Production Efficiency has slightly change by +1.3%_**. The system downtime minute -6.05 and scrap unit by +0.77%. By the way, accumulation of downtime and scrap unit cause <ins>_estimated lost 9% of production_</ins>.
   
-![Alternative text for the image]()
-
-
 #### Product Model Performance
 - **_47% of product volume contributed By model-x_**, 32% and 20% for model-y and z respectively. interm of downtime minute and scrap unit also according to production volume.
   
@@ -49,7 +46,7 @@ _Analysis confirm_ that experience year of operator and production time usage ar
 - **Downtime minute swing direction**: _<ins>Product-z has opposite trend direction from model-x and y</ins>_.
 - **Reccommend** to <ins>investigate production process and part structure different between product model-x,y and z-pro.</ins>
 
-![Alternative text for the image](Dashboard which show overall KPI)
+![Alternative text for the image](https://github.com/Pakawat2878/Manufacturing-Downtime-Analysis/blob/main/Product%20performance.png)
 
 
 ### Downtime Analysis:
