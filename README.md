@@ -71,8 +71,8 @@ _Analysis confirm_ that experience year of operator and production time usage ar
 
 - **_Compoenent feed error issue is the highest average downtime minutes(37 mins)_**. Follow by Vission system(36 mins), compoent feed error(35 mins) and solder clog(33 mins). <ins>Overview, there's no much different in each causation</ins>.
 
-![Alternative text for the image](bar graph which show ratio of downtime causation)
-  
+![Alternative text for the image](https://github.com/Pakawat2878/Manufacturing-Downtime-Analysis/blob/main/Downtime%20causation%20contribution.png)
+
 - **Downtime causation trends:** <ins>sum of downtime minute is **up trends in 'Solder Clog' and 'Material Shortage'** for +16% and +7%</ins> respectively since January month while <ins>**'Vission system issue' and 'Component feed error' are opposite with down trends**</ins> since January.
 
 
