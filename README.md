@@ -77,8 +77,7 @@ _Analysis confirm_ that experience year of operator and production time usage ar
 
 - **_Strong Negative Correlation_** was found between _**downtime minute and actual production minute**_(corr coeff is -0.85).Same correlation pattern as individaul downtime causation(less than - 0.80). Assumpation:
 
-![Alternative text for the image](bar graph which show correlation graph between Eff vs Exp
-![Alternative text for the image](box graph which show range of experience years in each shift assignment)
+
 
 
 ### **Conclusion & Reccomendation**
@@ -86,4 +85,4 @@ _Analysis confirm_ that experience year of operator and production time usage ar
 2. _**Mid term plan of root cause analysis:**_ Deep investigate root cause of downtime minute, focus high contributing factor(Solder Clog & Component Feed Error) by ask support from facility team to analyze data record of machine.
 
 
-
+[Alternative text for the image](https://github.com/Pakawat2878/Manufacturing-Downtime-Analysis/blob/main/Strategic%20increase%20efficiency.png)
