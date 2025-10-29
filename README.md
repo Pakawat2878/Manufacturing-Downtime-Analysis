@@ -11,8 +11,6 @@ Insight and recommendations are provided on following key areas:
   
 - _**Conclusion & Reccomendation:**_ provide proposal to improve process efficiency base on insign data analyst. 
   
-An interactive Power Bi dashboard can be download here.
-
 The Python notebook to conduct data exporatory can be found [here](https://github.com/Pakawat2878/Manufacturing-Downtime-Analysis/blob/main/EDA_downtime.pdf)
 
 
