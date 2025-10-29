@@ -65,7 +65,7 @@ _Analysis confirm_ that experience year of operator and production time usage ar
 - **Reccomend:** <ins>_allocate operator with high service years to afternoon shift_</ins> to increase efficiency of process.
 
   
-![Alternative text for the image](Lind graph which show prcess efficiency in Afternoon shift)
+![Alternative text for the image]()
 
 #### Downtime Causation Analysis
 - **_<ins>Reccomend prioritize investigate on 'Solder clog' and 'Compoenet feed error'</ins>_** issue first** becaue of high severity level in downtime minute and scraping rate 2.9.
