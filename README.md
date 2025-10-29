@@ -62,7 +62,7 @@ _Analysis confirm_ that experience year of operator and production time usage ar
 - **Reccomend:** <ins>_allocate operator with high service years to afternoon shift_</ins> to increase efficiency of process.
 
   
-     ![Alternative text for the image](https://github.com/Pakawat2878/Manufacturing-Downtime-Analysis/blob/main/Process%20Efficiency%20By%20Shift.png)
+     ![Alternative text for the image](https://github.com/Pakawat2878/Manufacturing-Downtime-Analysis/blob/main/Process%20Efficiency.png)
 
 #### Downtime Causation Analysis
 - **_<ins>Reccomend prioritize investigate on 'Solder clog' and 'Compoenet feed error'</ins>_** issue first** becaue of high severity level in downtime minute and scraping rate 2.9.
@@ -74,8 +74,7 @@ _Analysis confirm_ that experience year of operator and production time usage ar
 ![Alternative text for the image](bar graph which show ratio of downtime causation)
   
 - **Downtime causation trends:** <ins>sum of downtime minute is **up trends in 'Solder Clog' and 'Material Shortage'** for +16% and +7%</ins> respectively since January month while <ins>**'Vission system issue' and 'Component feed error' are opposite with down trends**</ins> since January.
-  
-**_Interpret trends:_ frequency of 'Solder clog' and 'Material Shortage' increase during period**. Confirm by <ins> **sum of downtime increase while average downtime reduce**</ins>.
+
 
 ![Alternative text for the image](bar graph which show +/- %change of overall downtime minute over period)
 
