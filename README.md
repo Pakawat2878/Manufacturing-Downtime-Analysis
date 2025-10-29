@@ -13,7 +13,7 @@ Insight and recommendations are provided on following key areas:
   
 An interactive Power Bi dashboard can be download here.
 
-The Python notebook to conduct data exporatory can be found here.
+The Python notebook to conduct data exporatory can be found [here](myLib/README.md)
 
 
 ## Data Structure Overview
