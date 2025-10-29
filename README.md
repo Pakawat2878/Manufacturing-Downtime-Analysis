@@ -11,9 +11,7 @@ Insight and recommendations are provided on following key areas:
   
 - _**Conclusion & Reccomendation:**_ provide proposal to improve process efficiency base on insign data analyst. 
   
-An interactive Looker Studio dashboard can be download here.
-
-The SQL queries utilized to inspect and perform quality check be download here.
+An interactive Power Bi dashboard can be download here.
 
 The Python notebook to conduct data exporatory can be found here.
 
@@ -77,7 +75,7 @@ _Analysis confirm_ that experience year of operator and production time usage ar
 
 - **_Strong Negative Correlation_** was found between _**downtime minute and actual production minute**_(corr coeff is -0.85).Same correlation pattern as individaul downtime causation(less than - 0.80). Assumpation:
 
-
+![Alternative text for the image](https://github.com/Pakawat2878/Manufacturing-Downtime-Analysis/blob/main/Significant%20correlation.png)
 
 
 ### **Conclusion & Reccomendation**
