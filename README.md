@@ -51,21 +51,22 @@ _**Analysis confirm**_ that experience year of operator and production time usag
 
 #### Shift Assignment Analysis
 - _**The lowest performance was conducted in afternoon shift**_(process efficiency: 76.5%) and low number of operator experience year(average 5 years).
-- _Assumption is_ operator with _<ins>high experience able to manage error in production better than operator with less experience.</ins>_. Analysis result confirm _<ins>strong positive correlation between operator experience and process efficiency</ins>_ (coeff: 0.71). 
+- _Assumption is_ operator with _<ins>high experience able to manage error in production better than operator with less experience.</ins>_ Analysis result confirm _<ins>strong positive correlation between operator experience and process efficiency</ins>_ (coeff: 0.71). 
 - **Recomend:** <ins>_allocate operator with high service years to afternoon shift_</ins> to increase efficiency of process.
 
   
      ![Alternative text for the image](https://github.com/Pakawat2878/Manufacturing-Downtime-Analysis/blob/main/Process%20Efficiency.png)
 
 #### Downtime Causation Analysis
-- **_Recomend prioritize investigate on 'Solder clog' and 'Compoenet feed error'_** issue first becaue of high severity level in downtime minute and scraping rate 2.9.
-- **_35% of downtime minute_** was contributed by **_Solder Clog_**. Then follow by _**Component Feed Error 30%**_. Material shortage(17%) and vision system issue 15%.
-- **_Compoenent Feed Error issue is the highest average downtime minutes(37 mins)_**. Follow by Vission system(36 mins), compoent feed error(35 mins) and solder clog(33 mins). <ins>Overview, there's no much different in each causation</ins>.
+- **_Recomend prioritize investigate on 'Solder Clog' and 'Compoenet Feed Error'_** issue first becaue of high severity level in downtime minute and scraping rate 2.9.
+- **_35% of downtime minute_** was contributed by **_Solder Clog_**. Then follow by _**Component Feed Error 30%**_. Material Shortage(17%) and Vision System Issue 15%.
+- **_Compoenent Feed Error issue is the highest average downtime minutes(37 mins)_**. Follow by Vission System Issue(36 mins), Compoent Feed Error(35 mins) and Solder Clog(33 mins). <ins>Overview, there's no much different in each causation</ins>.
 
     ![Alternative text for the image](https://github.com/Pakawat2878/Manufacturing-Downtime-Analysis/blob/main/Downtime%20causation%20contribution.png)
 
-- **Downtime causation trends:** <ins>sum of downtime minute is **up trends in 'Solder Clog' and 'Material Shortage'** for +16% and +7%</ins> respectively since January month while <ins>**'Vission system issue' and 'Component feed error' are opposite with down trends**</ins> since January.
-- **_Strong Negative Correlation_** was found between _**downtime minute and actual production minute**_(corr coeff is -0.85) and strong positive correlation found in operator experience and process efficiency(coeff: 0.71).
+- **Downtime causation trends:** <ins>sum of downtime minute is **up trends in 'Solder Clog' and 'Material Shortage'** for +16% and +7%</ins> respectively since January month while <ins>**'Vission System Issue' and 'Component Feed Error' are opposite with down trends**</ins> since January.
+- **_Strong Negative Correlation_** was found between _**downtime minute and actual production minute**_(corr coeff is -0.85) that make sense if downtime decrease, production time increase.
+- Strong positive correlation found in operator experience and process efficiency(coeff: 0.71). _Assumption is operator with high experience able to manage error in production better than operator with less experience_.
 
 ![Alternative text for the image](https://github.com/Pakawat2878/Manufacturing-Downtime-Analysis/blob/main/Significant%20correlation.png)
 
@@ -73,10 +74,11 @@ _**Analysis confirm**_ that experience year of operator and production time usag
 ### **Conclusion & Reccommendation**
 1. **Quick action approach:**
    - Process Efficiency improvement: _Allocate high exeperience to afternoon shift(from average 4 years to 7 years) to improve process efficiency_.
-   - System Downtime improvement: _Increase production time per day from 433 minute to 440 minute_.
-3. **Mid term plan of root cause analysis:** Deep investigate root cause of downtime minute, focus high contributing factor(Solder Clog & Component Feed Error) by ask support from facility team to analyze data record of machine.
 
 
-![Alternative text for the image](https://github.com/Pakawat2878/Manufacturing-Downtime-Analysis/blob/main/Strategic%20increase%20efficiency.png)
+    ![Alternative text for the image](https://github.com/Pakawat2878/Manufacturing-Downtime-Analysis/blob/main/Strategic%20increase%20efficiency.png)
+  
+2. **Mid term plan of root cause analysis:** Deep investigate root cause of downtime minute, focus high contributing factor(Solder Clog & Component Feed Error) by ask support from facility team to analyze data record of machine.
 
-![Alternative text for the image](https://github.com/Pakawat2878/Manufacturing-Downtime-Analysis/blob/main/Strategic%20reduce%20downtime.png)
+
+
