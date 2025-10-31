@@ -22,7 +22,7 @@ The Python notebook to conduct data exporatory can be found [here](https://githu
 _**Impact Business Cost**_ _<ins>lost 9% of total production(188 labuor hours)</ins>_ from frequent system downtime and part scrap. 
 Even overall performace of downtime decrease -6% and scrap slighly increase +0.8% over period but accumulation amount cause a huge impact cost. The primary driver of current inefficiency.
 
-_**Recommend Strategic**_ to <ins>_increase +8% process efficiency and reduce -22% of system downtime_</ins>  _<ins>by allocate high experience operator into afternoon shift</ins>_ and _<ins>increase actual production minute</ins>_. This strategic pivot will instantly improve.
+_**Recommend Strategic**_ to <ins>_increase +8% process efficiency and reduce -77% of system downtime_</ins>  _<ins>by allocate high experience operator into afternoon shift</ins>_ and _<ins>deep investigate root cause on high contributing factor</ins>_. This strategic pivot will instantly improve.
 
 _**Analysis confirm**_ that experience year of operator and production time usage are influential to process efficiency and frequent of downtime occurence. Assumption is operator with high experience able handle machine and manage error situation better than low experience person.
 
@@ -78,7 +78,7 @@ _**Analysis confirm**_ that experience year of operator and production time usag
 
     ![Alternative text for the image](https://github.com/Pakawat2878/Manufacturing-Downtime-Analysis/blob/main/Strategic%20increase%20efficiency.png)
   
-2. **Mid term plan of root cause analysis:** Deep investigate root cause of downtime minute, focus high contributing factor(Solder Clog & Component Feed Error) by ask support from facility team to analyze data record of machine.
+2. **Mid term plan of root cause analysis:** Deep investigate root cause of downtime minute, focus high contributing factor(Solder Clog & Component Feed Error) by ask support from facility team to analyze data record of machine. Estimated downtime reduce -77% of total.
 
     ![Alternative text for the image](https://github.com/Pakawat2878/Manufacturing-Downtime-Analysis/blob/main/Downtime%20causation%20priority.png)
 
