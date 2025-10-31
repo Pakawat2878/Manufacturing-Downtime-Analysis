@@ -22,7 +22,7 @@ The Python notebook to conduct data exporatory can be found [here](https://githu
 _**Impact Business Cost**_ _<ins>lost 9% of total production(188 labuor hours)</ins>_ from frequent system downtime and part scrap. 
 Even overall performace of downtime decrease -6% and scrap slighly increase +0.8% over period but accumulation amount cause a huge impact cost. The primary driver of current inefficiency.
 
-_**Reccommend Strategic**_ to <ins>_increase +12% process efficiency and reduce -22% of system downtime_</ins>  _<ins>by allocate high experience operator into afternoon shift</ins>_ and _<ins>increase actual production minute</ins>_. This strategic pivot will instantly improve.
+_**Recommend Strategic**_ to <ins>_increase +12% process efficiency and reduce -22% of system downtime_</ins>  _<ins>by allocate high experience operator into afternoon shift</ins>_ and _<ins>increase actual production minute</ins>_. This strategic pivot will instantly improve.
 
 _**Analysis confirm**_ that experience year of operator and production time usage are influential to process efficiency and frequent of downtime occurence. Assumption is operator with high experience able handle machine and manage error situation better than low experience person.
 
@@ -39,7 +39,7 @@ _**Analysis confirm**_ that experience year of operator and production time usag
 - **_Downtime minutes trends:_** sum of downtime minutes _<ins>end up with down trend in product-y and z ( -10% and -17% change respectively) </ins>_ for product x a bit increase 5%(comparison between Jan and Apr).
   
 - **_Downtime minute swing direction_**: _<ins>Product-z has opposite trend direction from model-x and y</ins>_.
-- **Reccommend** to <ins>investigate production process and part structure different between product model-x,y and z-pro.</ins>
+- **Recommend** to <ins>investigate production process and part structure different between product model-x,y and z-pro.</ins>
 
 ![Alternative text for the image](https://github.com/Pakawat2878/Manufacturing-Downtime-Analysis/blob/main/Product%20performance.png)
 
@@ -52,13 +52,13 @@ _**Analysis confirm**_ that experience year of operator and production time usag
 #### Shift Assignment Analysis
 - _**The lowest performance was conducted in afternoon shift**_(process efficiency: 76.5%) and low number of operator experience year(average 5 years).
 - _Assumption is_ operator with _<ins>high experience able to manage error in production better than operator with less experience.</ins>_. Analysis result confirm _<ins>strong positive correlation between operator experience and process efficiency</ins>_ (coeff: 0.71). 
-- **Reccomend:** <ins>_allocate operator with high service years to afternoon shift_</ins> to increase efficiency of process.
+- **Recomend:** <ins>_allocate operator with high service years to afternoon shift_</ins> to increase efficiency of process.
 
   
      ![Alternative text for the image](https://github.com/Pakawat2878/Manufacturing-Downtime-Analysis/blob/main/Process%20Efficiency.png)
 
 #### Downtime Causation Analysis
-- **_Reccomend prioritize investigate on 'Solder clog' and 'Compoenet feed error'_** issue first becaue of high severity level in downtime minute and scraping rate 2.9.
+- **_Recomend prioritize investigate on 'Solder clog' and 'Compoenet feed error'_** issue first becaue of high severity level in downtime minute and scraping rate 2.9.
 - **_35% of downtime minute_** was contributed by **_Solder Clog_**. Then follow by _**Component Feed Error 30%**_. Material shortage(17%) and vision system issue 15%.
 - **_Compoenent Feed Error issue is the highest average downtime minutes(37 mins)_**. Follow by Vission system(36 mins), compoent feed error(35 mins) and solder clog(33 mins). <ins>Overview, there's no much different in each causation</ins>.
 
