@@ -71,7 +71,7 @@ _**Analysis confirm**_ that experience year of operator and production time usag
 ![Alternative text for the image](https://github.com/Pakawat2878/Manufacturing-Downtime-Analysis/blob/main/Significant%20correlation.png)
 
 
-### **Conclusion & Reccommendation**
+### **Conclusion & Strategy Reccommendation**
 1. **Quick action approach:**
    - Process Efficiency improvement: _Allocate high exeperience to afternoon shift(from average 4 years to 7 years) to improve process efficiency_.
 
