@@ -22,7 +22,7 @@ The Python notebook to conduct data exporatory can be found [here](https://githu
 _**Impact Business Cost**_ _<ins>lost 9% of total production(188 labuor hours)</ins>_ from frequent system downtime and part scrap. 
 Even overall performace of downtime decrease -6% and scrap slighly increase +0.8% over period but accumulation amount cause a huge impact cost. The primary driver of current inefficiency.
 
-_**Recommend Strategic**_ to <ins>_increase +12% process efficiency and reduce -22% of system downtime_</ins>  _<ins>by allocate high experience operator into afternoon shift</ins>_ and _<ins>increase actual production minute</ins>_. This strategic pivot will instantly improve.
+_**Recommend Strategic**_ to <ins>_increase +8% process efficiency and reduce -22% of system downtime_</ins>  _<ins>by allocate high experience operator into afternoon shift</ins>_ and _<ins>increase actual production minute</ins>_. This strategic pivot will instantly improve.
 
 _**Analysis confirm**_ that experience year of operator and production time usage are influential to process efficiency and frequent of downtime occurence. Assumption is operator with high experience able handle machine and manage error situation better than low experience person.
 
