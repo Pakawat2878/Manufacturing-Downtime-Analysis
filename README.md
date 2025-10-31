@@ -80,5 +80,5 @@ _**Analysis confirm**_ that experience year of operator and production time usag
   
 2. **Mid term plan of root cause analysis:** Deep investigate root cause of downtime minute, focus high contributing factor(Solder Clog & Component Feed Error) by ask support from facility team to analyze data record of machine.
 
-
+    ![Alternative text for the image](https://github.com/Pakawat2878/Manufacturing-Downtime-Analysis/blob/main/Downtime%20causation%20priority.png)
 
