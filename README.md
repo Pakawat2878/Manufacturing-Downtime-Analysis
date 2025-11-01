@@ -9,7 +9,9 @@ Insight and recommendations are provided on following key areas:
   
 - _**Downtime Analysis:**_ Specify contribution factor in downtime causation and downtime occurrence timing to scope target improvement action.
   
-- _**Conclusion & Reccomendation:**_ provide proposal to improve process efficiency base on insign data analyst. 
+- _**Conclusion & Reccomendation:**_ provide proposal to improve process efficiency base on insign data analyst.
+
+The interactive Dashboard on Looker Studio [here](https://lookerstudio.google.com/reporting/2a0fc818-fa97-45bd-be10-1f432d9c6183)
   
 The Python notebook to conduct data exporatory can be found [here](https://github.com/Pakawat2878/Manufacturing-Downtime-Analysis/blob/main/EDA_downtime.pdf)
 
